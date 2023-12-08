@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amir-zakeri
-- 👀 I’m interested in data science, machine learning applications, finance, blockchain, hacking, photography, baking...! 
+- 👀 I’m interested in data science, machine learning applications, finance, blockchain, photography, baking...! 
 - 🌱 I’m currently working on NLP models.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me: amirhamed@gmail.com
