@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @amir-zakeri
-- 👀 I’m interested in data science, machine learning applications, finance, blockchain, photography, baking...! 
-- 🌱 I’m currently working on NLP models.
-- 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 How to reach me: amirhamed@gmail.com
+I am an eager data scientist! 
 
 <!---
 amir-zakeri/amir-zakeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
